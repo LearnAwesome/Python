@@ -23,7 +23,7 @@ print(d) # {'Lucy': 24, 'Peter': 20}
 '''
 * 与dict的特点基本相同，不同点是只储存key，而不储存value
 * 集合中不存在重复元素
-* 通过global@set()来创建，需要传入range/list/tuple来作为source
+* 通过built-in@set()来创建，需要传入range/list/tuple来作为source
 '''
 s = set([1, 2, 3, 3, 2])
 print(s) # {1, 2, 3}

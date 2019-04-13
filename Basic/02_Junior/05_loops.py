@@ -27,8 +27,8 @@ while n > 0:
 
 ''' 
 可以配合
-    * global@range() 获得连续范围
-    * global@list() / global@tuple() 通过范围获得列表 / 元组
+    * built-in@range() 获得连续范围
+    * built-in@list() / built-in@tuple() 通过范围获得列表 / 元组
 来快速生成可循环的对象
 '''
 for n in range(5):

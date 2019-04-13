@@ -6,7 +6,7 @@
 classmates = ['Michael', 'Lucy', 'Peter']
 print(classmates)                     # ['Michael', 'Lucy', 'Peter']
 print(classmates[1]) # 'Lucy' 正向下标获取列表中的元素
-# global@len() 获取长度
+# built-in@len() 获取长度
 print( len(classmates) ) # 3
 # list@append() 添加元素(在最后一位后)
 classmates.append('Jeny') # 返回值None
@@ -31,7 +31,7 @@ print(classmates)                     # ['Michael', 'Ray', 'Peter']
 '''
 workers = ('Michael', 'Lucy', 'Peter')
 print(workers) # ('Michael', 'Lucy', 'Peter')
-# global@len() 获取长度
+# built-in@len() 获取长度
 print( len(workers) ) # 3
 wrongOneElementTuple = ('Michael')
 print(wrongOneElementTuple) # 'Michael' 解释器认为()是运算符号
