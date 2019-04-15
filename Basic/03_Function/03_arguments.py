@@ -63,7 +63,7 @@ f7('Michael', *['Lucy', 'Peter'], **{'age':30}) # Name: Michael, Friends: ('Lucy
 
 # 参数组合
 '''
-参数排列的顺序一定是：位置参数 > 默认参数 > 可变参数 > 关键词参数 > 命名关键词参数
+参数排列的顺序一定是：位置参数(默认参数) > 可变参数*arg > 关键词参数**kw > 命名关键词参数(默认参数)
 '''
 def intro(name, age, *friends, city = 'China', idNumber, sex, **other):
     print('################################## \n' \

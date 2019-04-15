@@ -36,6 +36,7 @@ while True:
         print(e.value) # 'Done'
         break
 
+''' 杨辉三角形实现 '''
 def triangles():
     L = [1]
     while L:
