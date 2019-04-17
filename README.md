@@ -6,6 +6,10 @@
 
 [Michael.Liao's Blog](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 
+### Built-in Functions
+
+[https://docs.python.org/3/library/functions.html](https://docs.python.org/3/library/functions.html)
+
 ### Tools
 
 * python [learning.py](Basic/learning.py)
@@ -18,3 +22,4 @@
 * __Tip__: _Shallow Copy_ by [slice](Basic/04_AdvancedFeatures/01_slice.py)
 * __Math__: _Fibonacci sequence_ by [generator](Basic/04_AdvancedFeatures/04_generator.py)
 * __Math__: _Pascal's triangle_ by [generator](Basic/04_AdvancedFeatures/04_generator.py)
+* __Math__: _String to float_ by [map&reduce](Basic/05_FunctionalProgramming/01_mapAndReduce.py)

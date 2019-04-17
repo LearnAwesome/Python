@@ -1,0 +1,21 @@
+{
+  "name": "Python",
+  "version": "1.0.0",
+  "description": "learn python",
+  "main": "index.js",
+  "scripts": {
+    "test": "python3 test.py",
+    "helper": "python3 Basic/learning.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LearnAwesome/Python.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LearnAwesome/Python/issues"
+  },
+  "homepage": "https://github.com/LearnAwesome/Python#readme"
+}
