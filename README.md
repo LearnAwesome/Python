@@ -27,8 +27,8 @@
 | Item | Type | By |
 | ---- | ----------- | -- |
 | Intersection/Union | Math | [set](Basic/02_Junior/06_dictAndSet.py) |
-| Factorial | Math | [recursion](Basic/03_Function/recursion.py) |
-| Tower of Hanoi | Math | [recursion](Basic/03_Function/recursion.py) |
+| Factorial | Math | [recursion](Basic/03_Function/04_recursion.py) |
+| Tower of Hanoi | Math | [recursion](Basic/03_Function/04_recursion.py) |
 | Shallow Copy | Tip | [slice](Basic/04_AdvancedFeatures/01_slice.py) |
 | Fibonacci sequence | Math | [generator](Basic/04_AdvancedFeatures/04_generator.py) |
 | Pascal's triangle | Math | [generator](Basic/04_AdvancedFeatures/04_generator.py) |

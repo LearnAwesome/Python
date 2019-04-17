@@ -11,4 +11,4 @@ print( [a + b for a in 'abc' if a == 'a' for b in 'xyz'] ) # ['ax', 'ay', 'az']
 
 ''' 用os@listdir()来组合列表生成式，快速获得目录 '''
 import os
-print([d[:1] for d in os.listdir('./io')]) # ['a', 'b']
+print([d[:1] for d in os.listdir('./io_for_03')]) # ['a', 'b']
