@@ -1,5 +1,11 @@
 # Python
 
+## Scripts
+
+* `npm run test` - _run __test__ of Tools_
+* `npm run helper` - _run __helper__ of Tools_
+* `npm run curr` - _run __current__ of Tools_
+
 ## Basic
 
 ### Source
@@ -12,14 +18,18 @@
 
 ### Tools
 
-* python [learning.py](Basic/learning.py)
+* [helper](Tools/helper.py) - _Helper for Michael.Liao's Blog python env_
+* [test](Tools/test.py) - _Temporary test program_
+* [current](Tools/current.py) - _Find the latest python file from $basic_root and execute it_
 
 ### Ingenuity
 
-* __Math__: _Intersection/Union_ by [set](Basic/02_Junior/06_dictAndSet.py)
-* __Math__: _Factorial_ by [recursion](Basic/03_Function/recursion.py)
-* __Math__: _Tower of Hanoi_ by [recursion](Basic/03_Function/recursion.py)
-* __Tip__: _Shallow Copy_ by [slice](Basic/04_AdvancedFeatures/01_slice.py)
-* __Math__: _Fibonacci sequence_ by [generator](Basic/04_AdvancedFeatures/04_generator.py)
-* __Math__: _Pascal's triangle_ by [generator](Basic/04_AdvancedFeatures/04_generator.py)
-* __Math__: _String to float_ by [map&reduce](Basic/05_FunctionalProgramming/01_mapAndReduce.py)
+| Item | Type | By |
+| ---- | ----------- | -- |
+| Intersection/Union | Math | [set](Basic/02_Junior/06_dictAndSet.py) |
+| Factorial | Math | [recursion](Basic/03_Function/recursion.py) |
+| Tower of Hanoi | Math | [recursion](Basic/03_Function/recursion.py) |
+| Shallow Copy | Tip | [slice](Basic/04_AdvancedFeatures/01_slice.py) |
+| Fibonacci sequence | Math | [generator](Basic/04_AdvancedFeatures/04_generator.py) |
+| Pascal's triangle | Math | [generator](Basic/04_AdvancedFeatures/04_generator.py) |
+| String to float | Math | [map&reduce](Basic/05_FunctionalProgramming/01_mapAndReduce.py) |

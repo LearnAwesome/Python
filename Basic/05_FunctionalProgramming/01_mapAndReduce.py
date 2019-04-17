@@ -1,4 +1,4 @@
-# map()
+# 映射 map()
 '''
 * built-in@map(func, iterable)
 * 返回Iterator
@@ -12,7 +12,7 @@ print( m ) # <map object at 0x10f487e10>
 print( isinstance(m, Iterator) ) # True
 print( list(m) ) # [1, 4, 9]
 
-# reduce()
+# 收敛 reduce()
 '''
 * functools@reduce(func, Iterable)
 '''

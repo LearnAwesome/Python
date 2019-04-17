@@ -4,8 +4,9 @@
   "description": "learn python",
   "main": "index.js",
   "scripts": {
-    "test": "python3 test.py",
-    "helper": "python3 Basic/learning.py"
+    "test": "python3 Tools/test.py",
+    "helper": "python3 Tools/helper.py",
+    "curr": "python3 Tools/current.py"
   },
   "repository": {
     "type": "git",
