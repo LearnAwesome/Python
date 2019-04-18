@@ -32,6 +32,6 @@
 | Shallow Copy | Tip | [slice](Basic/04_AdvancedFeatures/01_slice.py) |
 | Fibonacci sequence | Math | [generator](Basic/04_AdvancedFeatures/04_generator.py) |
 | Pascal's triangle | Math | [generator](Basic/04_AdvancedFeatures/04_generator.py) |
-| String to float | Math | [map&reduce](Basic/05_FunctionalProgramming/01_mapAndReduce.py) |
-| Get prime with the Sieve of Eratosthenes | Math | [filter](Basic/05_FunctionalProgramming/02_filter.py) |
-| Get palindrome number | Math | [filter](Basic/05_FunctionalProgramming/02_filter.py) |
+| String to float | Math | [map&reduce](Basic/05_FunctionalProgramming/01_Higher-orderFunctions/01_mapAndReduce.py) |
+| Get prime with the Sieve of Eratosthenes | Math | [filter](Basic/05_FunctionalProgramming/01_Higher-orderFunctions/02_filter.py) |
+| Get palindrome number | Math | [filter](Basic/05_FunctionalProgramming/01_Higher-orderFunctions/02_filter.py) |
