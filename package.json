@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "python3 Tools/test.py",
-    "helper": "python3 Tools/helper.py",
+    "online": "python3 Tools/online.py",
     "curr": "python3 Tools/current.py"
   },
   "repository": {

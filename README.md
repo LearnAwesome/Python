@@ -18,7 +18,7 @@
 
 ### Tools
 
-* [helper](Tools/helper.py) - _Helper for Michael.Liao's Blog python env_
+* [online](Tools/online.py) - _Helper for Michael.Liao's Blog python3 online env_
 * [test](Tools/test.py) - _Temporary test program_
 * [current](Tools/current.py) - _Find the latest python file from $basic_root and execute it_
 
@@ -33,3 +33,5 @@
 | Fibonacci sequence | Math | [generator](Basic/04_AdvancedFeatures/04_generator.py) |
 | Pascal's triangle | Math | [generator](Basic/04_AdvancedFeatures/04_generator.py) |
 | String to float | Math | [map&reduce](Basic/05_FunctionalProgramming/01_mapAndReduce.py) |
+| Get prime with the Sieve of Eratosthenes | Math | [filter](Basic/05_FunctionalProgramming/02_filter.py) |
+| Get palindrome number | Math | [filter](Basic/05_FunctionalProgramming/02_filter.py) |
