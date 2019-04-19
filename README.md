@@ -1,5 +1,9 @@
 # Python
 
+## Env
+
+__`Python3.7.2`__
+
 ## Scripts
 
 * `npm run test` - _run __test__ of Tools_
