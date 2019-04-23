@@ -4,9 +4,9 @@
   "description": "learn python",
   "main": "index.js",
   "scripts": {
-    "test": "python3 Tools/test.py",
-    "online": "python3 Tools/online.py",
-    "curr": "python3 Tools/current.py"
+    "test": "python Tools/test.py",
+    "online": "python Tools/online.py",
+    "curr": "python Tools/current.py"
   },
   "repository": {
     "type": "git",
