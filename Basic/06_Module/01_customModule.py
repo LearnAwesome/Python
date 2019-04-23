@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 # 模块 module
 '''
 * 任何一个同级目录下的.py文件都可以看作是一个model
